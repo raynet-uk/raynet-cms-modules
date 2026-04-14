@@ -1,0 +1,19 @@
+{
+    "api_version": "1",
+    "generated_at": "2026-04-14",
+    "modules": {
+        "test-widget": {
+            "name": "TestWidget",
+            "alias": "test-widget",
+            "version": "2.0.0",
+            "description": "A test module for verifying the RAYNET CMS update system.",
+            "author": "RAYNET Liverpool",
+            "author_uri": "https://raynet-liverpool.net",
+            "changelog": "v2.0.0\n- Added widget refresh button\n- Improved styling\n- Fixed PHP 8.2 compatibility",
+            "requires_php": "8.1",
+            "requires_core": "1.0.0",
+            "released_at": "2026-04-14",
+            "download_url": "https://github.com/raynet-uk/raynet-cms-modules/releases/download/test-widget-2.0.0/TestWidget-2.0.0.zip"
+        }
+    }
+}
