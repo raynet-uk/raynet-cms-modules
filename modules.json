@@ -5,7 +5,7 @@
         "test-widget": {
             "name": "TestWidget",
             "alias": "test-widget",
-            "version": "2.0.0",
+            "version": "2.1.0",
             "description": "A test module for verifying the RAYNET CMS update system.",
             "author": "RAYNET Liverpool",
             "author_uri": "https://raynet-liverpool.net",
